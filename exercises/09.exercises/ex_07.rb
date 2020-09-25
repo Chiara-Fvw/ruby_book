@@ -1,0 +1,1 @@
+# The array stores items while the hash stores items with a key
