@@ -46,6 +46,6 @@ words.each do |word|
 end
 
 result.each_value do |v|
-  puts "------"
+  puts "         "
   p v
 end
